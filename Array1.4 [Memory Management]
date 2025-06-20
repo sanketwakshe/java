@@ -1,0 +1,12 @@
+IntegerCashe = Hyach use apn same num of integer la ekach Address ne store krto 
+Range = -128 to 127 // hyachyatch fact repet chi memory bant nahi 
+int x = 10;
+int y = 10;
+System.out.println(System.IdentityHashCode(x));
+System.out.println(System.identityHashCode(y));  // Hyachyat x &  y cha data ha same ahe mhnun add he same yenar mg java hya thikani memory managment karte
+output =  same x & y = 124435432  
+********************************************************************************************************************************************************************************
+SCP [String Constant Pull] Used for managing the memory in JAVA
+String str1 = "sanket";  // hyane memory madhe same navachi string ekdach save hote mhnun METHOD AREA madhe memory vachate.
+
+
